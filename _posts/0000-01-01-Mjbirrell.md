@@ -1,6 +1,0 @@
----
-layout: slide
-title: "Welcome to our first slide!"
----
-Your text
-Use the right arrow to go forward!
